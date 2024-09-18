@@ -1,1 +1,1 @@
-# Repository for any kind of games
+# Wizard game
